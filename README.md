@@ -1,5 +1,11 @@
 # Error Pages
-    The result of an HTTP status code. This status code is the server’s response 'in a three-digit code' to your browser’s request. Meaning that when you type a site’s URL in your browser, it sends a request to the server. What it receives is a code — an HTTP status code.
+> The result of an HTTP status code. This
+> status code is the server’s response 'in a
+> three-digit code' to your browser’s request.
+> Meaning that when you type a site’s URL in 
+> your browser, it sends a request to the 
+> server. What it receives is a code — an HTTP
+>  status code.
     Status codes are divided into classes and   subclasses, based on the number it starts with    — from 1 to 5. Every class represents different kinds of responses, here are some of common responses.
 
 ## Client-side Errors
