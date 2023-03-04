@@ -6,7 +6,9 @@
 > your browser, it sends a request to the 
 > server. What it receives is a code — an HTTP
 >  status code.
-    Status codes are divided into classes and   subclasses, based on the number it starts with    — from 1 to 5. Every class represents different kinds of responses, here are some of common responses.
+> Status codes are divided into classes and subclasses,
+> Every class represents different kinds of responses,
+> here are some of common responses.
 
 ## Client-side Errors
 * 400
